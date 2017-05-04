@@ -7,7 +7,7 @@ Resource                                       ./pages-and-keywords/test_setup_a
 Resource                                       ./pages-and-keywords/login_page_and_keywords.robot  
 Resource                                       ./pages-and-keywords/dashboard_page_and_keywords.robot
 Resource                                       ./pages-and-keywords/delete_page_and_keywords.robot
-Resource                                       ./pages-and-keywords/reservation/reservation_view_form.robot
+Resource                                       ./pages-and-keywords/reservation_view_form.robot
 Test Setup                                     Setup
 Test Teardown                                  Teardown                     
 
