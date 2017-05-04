@@ -1,6 +1,6 @@
 *** Settings ***
 Resource                                             ./user-pages/user_list_page_and_keywords.robot
-Resource                                           ./reservation/reservation_view_form.robot
+Resource                                             ./reservation_view_form.robot
 
 
 *** variables ***
