@@ -29,6 +29,7 @@ navigate_to_dasboard_top_link
     Page should contain element                    ${dashboard_pg_top_link_to_index}
     click element                                  ${dashboard_pg_top_link_to_index}
     Wait until page contains                       ${dashboard_pg_label_on_page}
+
 navigate_to_dasboard_page_link_left
     Page should contain element                    ${dashboard_pg_left_link_dashboard}
     click element                                  ${dashboard_pg_left_link_dashboard}   
