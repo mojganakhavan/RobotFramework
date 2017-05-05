@@ -17,7 +17,11 @@ Test Teardown                                  Teardown
 Test_login_as_invalid_user
     perform_login_invalid_user   
    
-   
+Test_delete_an_user
+   perform_login_admin_user
+   navigate_to_user_page_link_left 
+   delete_an_user
+   perform_logout 
 
    
  Test_view_hotel_reservation
