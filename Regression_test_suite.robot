@@ -9,7 +9,7 @@ Resource                                       ./pages-and-keywords/dashboard_pa
 Resource                                       ./pages-and-keywords/delete_page_and_keywords.robot
 
 Test Setup                                     Setup
-Test Teardown                                  Teardown                     
+Test Teardown                                 Teardown                     
 
 
 *** Test Cases ***
