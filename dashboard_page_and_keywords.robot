@@ -41,7 +41,7 @@ navigate_to_user_page_link_left
     Wait until page contains                       ${user_pg_label_on_page}
     
     
- navigate_to_reservation_page_link_left
+navigate_to_reservation_page_link_left
     Page should contain element                    ${dashboard_pg_left_link_reservation}
     click element                                  ${dashboard_pg_left_link_reservation}
     Wait until page contains                       ${reservation_pg_label_on_page}  
